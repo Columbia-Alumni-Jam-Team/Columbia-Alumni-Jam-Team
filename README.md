@@ -14,6 +14,16 @@ continue learning and improving on their skills in game development.
 ---
 
 <img src="images/banner_cindy-brock-and-the-legend-of-the-keytar.jpg" alt="Cindy Brock and the Legend of the Keytar" width="100%"></img>
+<div align="center">
+  <img src="images/thumbnail_placeholder.jpg" alt="Cindy Brock and the Legend of the Keytar" width="24.5%"></img>
+  <img src="images/thumbnail_placeholder.jpg" alt="Cindy Brock and the Legend of the Keytar" width="24.5%"></img>
+  <img src="images/thumbnail_placeholder.jpg" alt="Cindy Brock and the Legend of the Keytar" width="24.5%"></img>
+  <img src="images/thumbnail_placeholder.jpg" alt="Cindy Brock and the Legend of the Keytar" width="24.5%"></img>
+</div>
+
+- [Project Repository](https://github.com/JSchoppe/CindyBrock-LegendOfTheKeytar)<br>
+- [Play __*Cindy Brock and the Legend of the Keytar*__](https://ianjeannin.itch.io/battle-royal-rhythm)<br>
+- [Listen to the __*Cindy Brock and the Legend of the Keytar*__ soundtrack](https://ianjeannin.itch.io/battle-royal-rhythm)
 
 <table align="center">
   <tr>
